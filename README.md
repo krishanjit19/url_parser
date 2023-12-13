@@ -16,7 +16,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/url-parser-project.git
+[git clone https://github.com/your-username/url-parser-project.git](https://github.com/krishanjit19/url_parser.git)
 Open the index.html file in your web browser.
 
 Usage
